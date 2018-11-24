@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Examen4-grafo/Examen4-grafo/bin/Debug/Examen4-grafo.exe
+/Users/AlanGarcia/Projects/Examen4-grafo/Examen4-grafo/bin/Debug/Examen4-grafo.pdb
+/Users/AlanGarcia/Projects/Examen4-grafo/Examen4-grafo/obj/x86/Debug/Examen4-grafo.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Examen4-grafo/Examen4-grafo/obj/x86/Debug/Examen4-grafo.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Examen4-grafo/Examen4-grafo/obj/x86/Debug/Examen4-grafo.exe
+/Users/AlanGarcia/Projects/Examen4-grafo/Examen4-grafo/obj/x86/Debug/Examen4-grafo.pdb

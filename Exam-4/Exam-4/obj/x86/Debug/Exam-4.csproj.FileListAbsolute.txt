@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Exam-4/Exam-4/obj/x86/Debug/Exam-4.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Exam-4/Exam-4/obj/x86/Debug/Exam-4.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Exam-4/Exam-4/bin/Debug/Exam-4.exe
+/Users/AlanGarcia/Projects/Exam-4/Exam-4/bin/Debug/Exam-4.pdb
+/Users/AlanGarcia/Projects/Exam-4/Exam-4/obj/x86/Debug/Exam-4.exe
+/Users/AlanGarcia/Projects/Exam-4/Exam-4/obj/x86/Debug/Exam-4.pdb

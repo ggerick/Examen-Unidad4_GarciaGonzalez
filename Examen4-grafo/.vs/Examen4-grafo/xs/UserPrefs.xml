@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EA79183D-5BAD-4ECE-9268-C79F8D958474}|Default">
+  <MonoDevelop.Ide.ItemProperties.Examen4-grafo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Examen4-grafo/Program.cs">
+    <Files>
+      <File FileName="Examen4-grafo/Program.cs" Line="24" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
